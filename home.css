@@ -1,0 +1,27 @@
+*{
+    font-family:'arial'
+}
+
+/* banner */
+.banner{
+    width: 100%;
+    height:auto
+}
+.banner_image{
+    height: 25rem;
+    width: 35rem
+}
+
+.text-gray{
+    color:#797d81;
+}
+.text-color{
+    color:#dee2e6;
+}
+.most-popular{
+   color:white;
+    background-color: #0add649c;
+}
+.bg-color{
+    background-color:rgb(61, 61, 110);
+}
